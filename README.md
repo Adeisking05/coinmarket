@@ -1,3 +1,8 @@
+This is a crypto currency information site. It gives details of over 50 crypto's including their market cap, price and amount in circulation
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
